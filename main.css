@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-family: "Goblin One";
+    padding:auto;
+    font-size:40px;
+}
+
+input,select,button{
+    font-family:"Courier";
+}
+
+#result{
+    font-family: "Goblin One";
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.container {
+    text-align: center;
+    padding: 10px;
+    border: 15px double #333;
+    border-radius: 10px;
+    width: 1000px;
+    background-color: goldenrod;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin:auto;
+}
+
+input,select{
+    width:800px;
+    height:50px;
+    text-align: center;
+    font-weight: bold;
+    font-size:30px;
+    margin-bottom: 20px;
+}
+
+button{
+    width:700px;
+    height:50px;
+    text-align: center;
+    font-weight: bold;
+    font-size:30px; 
+    margin-top:20px;
+    background: black;
+    color: white;
+}
+
