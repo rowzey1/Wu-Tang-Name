@@ -1,6 +1,6 @@
 # 🎤 Project: Wu-Tang Name Generator
 
-### Goal: Wu-Tang Clan name generator that present's the user with 5 survey questions and based on those answers randomly generate their name. 
+### Goal: Wu-Tang Clan name generator that present's the user with 5 survey questions and based on those answers randomly generates their name. 
 <ul>
 <li>User answers 5 personal questions about their first name, last name, genender,age, and location. </li>
 <li>The program assigns them a name based on conditions set in JS.</li>
@@ -12,7 +12,8 @@
 <li>The final Wu Tang name was assigned based on the location adjective, random adjective, and random noun generated.</li>
 </ul>
 
-![Screenshot 2024-11-11 at 3 31 04 PM](https://github.com/user-attachments/assets/e4a5fae4-718d-410a-aa72-1efe250ea1e2)
+![Screenshot 2024-12-02 at 11 42 38 AM](https://github.com/user-attachments/assets/b2c0d4ef-0803-48d4-abaf-c44eb7f44b44)
+
 
 ## Technologies Used
 
